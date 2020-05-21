@@ -1,13 +1,12 @@
 
 TITLE: 
-Beryllium - 100% Fully Responsive Free HTML5 Bootstrap Template
+Atlas Ex Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED by FreeHTML5.co /W.A
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: https://github.com/AtlasEx/AtlasEx.github.io
+Twitter: http://twitter.com/WilBtc
 
 
 CREDITS:
