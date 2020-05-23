@@ -26,8 +26,7 @@ http://modernizr.com/
 Google Fonts
 https://www.google.com/fonts/
 
-Google Map
-http://maps.google.com
+Blockstream.com
 
 Icomoon
 https://icomoon.io/app/
@@ -44,6 +43,4 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 Owl Carousel
 http://www.owlcarousel.owlgraphic.com/
 
-Demo Images:
-http://unsplash.com
 
